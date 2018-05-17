@@ -1,5 +1,5 @@
 # GEOG483W17-LBSprivacy
-The Game: Finding Frisk
+**The Game: Finding Frisk**
 
 The 4 APK files for each location to be downloaded and installed on 4 phones.
 
